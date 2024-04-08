@@ -1,6 +1,6 @@
 # E4Tech
 
-Este projeto é uma pagina de divulgaão de uma empresa de consultoria de TI.
+Este projeto é uma pagina de divulgação de uma empresa de consultoria de TI.
 
 # Nessa página você pode encontrar informações tais como:
 - O por que é importante uma consultoria de TI;
